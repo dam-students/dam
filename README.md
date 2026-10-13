@@ -4,9 +4,6 @@
   <a href="https://github.com/orgs/AP-Studio02/projects/3/views/1">
     <img src="https://img.shields.io/badge/Agenda_de_Tareas-DAM_--_GitHub_Projects-0052cc?style=flat&logo=github&logoColor=white" height="38" alt="Agenda de Tareas" />
   </a>
-  
-  <a href="https://app.gitbook.com/o/ilxdVY9A73ja0vHrImZR/integrations"><img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook"></a>
-</p>
 
 ## Desarrollo de interfaces
 
